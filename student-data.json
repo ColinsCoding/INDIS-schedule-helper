@@ -1,0 +1,49 @@
+{
+    "students": [
+      {
+        "firstName": "John",
+        "lastName": "Doe",
+        "studentId_num": 123456,
+        "mentor": "Jane Smith",
+        "scienceClass": "Biology 101",
+        "scienceInstructor": "Dr. Smith",
+        "email": "john.doe@example.com",
+        "phoneNumber": "123-456-7890",
+        "major": "Biology",
+        "otherClasses": ["Math 101", "English 201"],
+        "workHour": 15,
+        "notes": "John is a hardworking student and always participates in class."
+      },
+      {
+        "firstName": "Jane",
+        "lastName": "Doe",
+        "studentId": 12346,
+        "mentor": "John Smith",
+        "scienceClass": "Chemistry 101",
+        "scienceInstructor": "Dr. Johnson",
+        "email": "jane.doe@example.com",
+        "phoneNumber": "123-456-7891",
+        "major": "Chemistry",
+        "otherClasses": ["Physics 101", "History 301"],
+        "workHour": 12,
+        "notes": "Jane is a top-performing student and always completes her assignments on time."
+      },
+      {
+        "firstName": "Bob",
+        "lastName": "Smith",
+        "studentId": 12347,
+        "mentor": "Jane Johnson",
+        "scienceClass": "Physics 101",
+        "scienceInstructor": "Dr. Williams",
+        "email": "bob.smith@example.com",
+        "phoneNumber": "123-456-7892",
+        "major": "Physics",
+        "otherClasses": ["Biology 101", "Computer Science 201"],
+        "workHour": 10,
+        "notes": "Bob is a talented student but sometimes struggles to stay organized."
+      }
+    ]
+  }
+  
+  
+  
